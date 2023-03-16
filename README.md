@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://images3.memedroid.com/images/UPLOADED920/63bbe00d6c0dc.webp" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nidzammst&icon=2&color=0)](https://visitcount.itsvg.in)
